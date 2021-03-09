@@ -12,3 +12,13 @@
 * 진우 (Python)
 * 상인 (Python)
 * 다혜 (Swift)
+
+
+#### Week1 - DFS/BFS
+
+https://programmers.co.kr/learn/courses/30/parts/12421
+
+1. 타켓 넘버 - lv.2
+2. 네트워크 - lv.3
+3. 단어 변환 - lv.3
+4. 여행경로 - lv.3
