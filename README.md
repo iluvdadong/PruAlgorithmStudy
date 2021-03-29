@@ -1,20 +1,17 @@
 # PruAlgorithmStudy
-*푸알 : 진우 상인 다혜 Pru Algorithm Study*
+*푸알 : 진우 상인 다혜 Pru Algorithm & Programming Study*
 
 ### Study Rule
-- 매주 목요일 퇴근 후 3시간(7-10) (화요일 선택)
-- 만나서 풀 문제 정하고 함께 풀기 (난이도 상 / 중 / 하 골고루) 3~5문제 정도 (공통3 / 개인2)
-- 업로드 폴더 Week No/본인이름/ 
-- 시간 안에 풀지 못한 문제는 반드시 그 다음주 스터디 전까지 완료하기 -> 모르면 질문
-  - 안 풀어올 경우 스터디때 커피 || 빵 쏘기
+- 매주 목요일 퇴근 후 3시간(7-10) 
+- 매일 30분이라도 알골 || 개발 공부
 
 ### Programming Language
 * 진우 (Python)
 * 상인 (Python)
-* 다혜 (Swift)
+* 다혜 (Javascript)
 
 
-#### Week1 - DFS/BFS
+#### 3월 2주차 - DFS/BFS
 
 https://programmers.co.kr/learn/courses/30/parts/12421
 
@@ -22,3 +19,10 @@ https://programmers.co.kr/learn/courses/30/parts/12421
 2. 네트워크 - lv.3
 3. 단어 변환 - lv.3
 4. 여행경로 - lv.3
+
+#### 3월 3주차
+
+#### 3월 4주차
+
+1. [그리디 알고리즘 - ](https://github.com/minigold92/PruAlgorithmStudy/tree/main/ThisIsCodingTest/greedy) - 진우
+2. [HTML/CSS 인강 30분요약](https://www.youtube.com/watch?v=VKdYKPawxY8) - 다혜
